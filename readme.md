@@ -1,3 +1,3 @@
 nama: Luthfi Ferdian
 Hobby: nonton
-Warna Kesukaan: Hitam
+Warna Kesukaan: Hijau
