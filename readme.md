@@ -1,4 +1,4 @@
 nama: Luthfi Ferdian
 Hobby: nonton
-Warna Kesukaan: Hijau
+Warna Kesukaan: merah
 Hewan peliharaan: kucing
